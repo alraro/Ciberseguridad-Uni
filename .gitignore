@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.sign
+*.cipher
+*.priv
+*.pem
+*.pub
